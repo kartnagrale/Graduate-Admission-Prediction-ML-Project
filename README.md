@@ -1,6 +1,7 @@
 # Graduate-Admission-Prediction-ML-Project
 
 The "Graduate Admission Prediction using Machine Learning" project presents a cutting-edge solution to enhance the graduate admission process, leveraging the power of Machine Learning (ML). With the ever-increasing competition for graduate program admissions, both applicants and admission committees seek more efficient and transparent decision-making processes. The project addresses this challenge by developing a predictive model that assesses the likelihood of a student's acceptance into a graduate program.
+
 To achieve this, the project has harnessed a comprehensive dataset comprising historical admission records, standardized test scores, and academic performance indicators. Through the implementation of several ML algorithms, including Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors Classifier (KNN), Random Forest Classifier, and Gradient Boosting Classifier, we have created a robust predictive framework. Each of these algorithms has been carefully selected and optimized to provide accurate predictions. Logistic Regression offers simplicity and interpretability, while SVM excels in handling non-linear data. KNN leverages proximity-based learning, Random Forest brings ensemble learning capabilities, and Gradient Boosting enhances model performance through boosting techniques.
 
 # Work Done
@@ -9,8 +10,11 @@ We have used a combination of data, machine learning techniques, and statistical
 ** Module 1 ** 
 
 Data Collection: Gathering historical data on past graduate applicants. This data include information such as GRE scores, undergraduate GPA, letters of recommendation, statement of purpose, and the admission outcomes (admitted or not admitted).
+
 Data Preprocessing: Cleaning and preprocessing the data. This involves handling missing values, normalizing data, and converting categorical variables into numerical representations.
+
 Feature Selection: Identifying and selecting the relevant features that are likely to influence the admission decision. We may also create new features through feature engineering, such as combining GRE scores and GPA into a composite score.
+
 Feature Scaling: Standardize or normalize data to ensure all features are on a consistent scale.
 
 ** Module 2 **
