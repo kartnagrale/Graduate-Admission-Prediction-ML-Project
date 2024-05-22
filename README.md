@@ -92,6 +92,7 @@ Notable accuracy scores for Classifier Models are observed for Logistic Regessio
 Upon extensive testing and validation, the model achieved a prediction accuracy of approximately 97%, which indicates its effectiveness in providing insights into the admission process. 
 
 ![image](https://github.com/kartnagrale/Graduate-Admission-Prediction-ML-Project/assets/115936211/05d4f696-fe95-4c2e-bfa5-d0e547ab9d80)
+
 Fig.3 Interface for Graduate Admission Prediction
 
 It is important to note that this accuracy is based on the data available for this study, and real-world performance may vary based on the specific dataset and criteria used by educational institutions.
